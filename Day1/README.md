@@ -153,9 +153,4 @@ Expected output:
 
 ## Next Lab
 Proceed to **Day 2: Bootstrapping a Multi‑Node Cluster with kubeadm**.
-```
 
-
-This README now includes **VM creation, hostname setup, `/etc/hosts` entries, and your script** in a clean step‑by‑step format.  
-
-👉 Do you want me to prepare **Day 2 README.md** next (worker join + cluster validation expanded), so your repo has continuity?
