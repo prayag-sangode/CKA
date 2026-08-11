@@ -97,7 +97,3 @@ Expected output:
 ## Next Lab
 Proceed to **Day 3: Exploring Kubernetes Cluster Architecture with Diagrams**.
 
-
-This README gives you a **step‑by‑step bootstrap workflow**: init master, configure kubectl, install Calico, join worker, and verify cluster health.  
-
-👉 Do you want me to also prepare **Day 3 README.md** with diagrams and explanations of control plane vs worker node components, so your repo flows seamlessly?
